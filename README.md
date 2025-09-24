@@ -54,9 +54,9 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 
 ## ❓ FAQ ∘ ∘ ∘ ( °ヮ° )  
 
-- 🎙️📝 [How to set up mic & writing panel (Desktop / Android)]()  
-- 🗣️✍️ [How to practice speaking & writing effectively with this deck]()  
-- 🌐🎞️ [How to adjust subtitles to your preferred language]()  
+- 🎙️📝 [How to set up language, mic & writing panel (Desktop / Android)](https://noiseless-abacus-7a5.notion.site/GLASSY-GAIA-Anki-Japanese-Movie-Flashcards-FAQ-278b88c26c408083a429cf3ed5f30e64#278b88c26c40807d97cbe7f6b006a55b)  
+- 🗣️✍️ [How to practice speaking & writing effectively with this deck](https://noiseless-abacus-7a5.notion.site/GLASSY-GAIA-Anki-Japanese-Movie-Flashcards-FAQ-278b88c26c408083a429cf3ed5f30e64#278b88c26c408095b81ee66a37728c04)  
+- 🌐🎞️ [How to adjust subtitles to your preferred language](https://noiseless-abacus-7a5.notion.site/GLASSY-GAIA-Anki-Japanese-Movie-Flashcards-FAQ-278b88c26c408083a429cf3ed5f30e64#278b88c26c40808ea088d3d7543fa043)  
 - 🪧 Got more questions? Please let me know ଘ(੭ˊᵕˋ)੭  
 
 ---
