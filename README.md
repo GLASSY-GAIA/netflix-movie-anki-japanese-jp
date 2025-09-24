@@ -45,10 +45,11 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 | [Spirited Away](https://www.netflix.com/title/60023642)    | N4–N3        | ✅                | ✅      | ✅              | ✅              | ✅         | ✅        | ✅        | ✅     |
 | [My Neighbor Totoro](https://www.netflix.com/vn-en/title/60032294) (TBD) | N4            | 🔜                | 🔜      | 🔜              | 🔜              | 🔜         | 🔜        | 🔜        | 🔜     |
 
----
 
 ✅ = available 🔜 = coming soon ❌ = not available  
 
+**Shared Decks on Anki**
+1. [Spirited Away](https://ankiweb.net/shared/info/1236164805)
 
 ---
 
