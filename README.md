@@ -40,16 +40,28 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 
 ## 🎥 Movie & Subtitle Availability  
 
-| Movie            | Level (JLPT) | Japanese (Target) | English | Español (LatAm) | Español (Spain) | Tiếng Việt | 中文 (简) | 中文 (繁) | 한국어 |
-|------------------|--------------|-------------------|---------|-----------------|-----------------|------------|-----------|-----------|--------|
-| [Spirited Away](https://www.netflix.com/title/60023642)    | N4–N3        | ✅                | ✅      | ✅              | ✅              | ✅         | ✅        | ✅        | ✅     |
-| [My Neighbor Totoro](https://www.netflix.com/vn-en/title/60032294) (TBD) | N4            | 🔜                | 🔜      | 🔜              | 🔜              | 🔜         | 🔜        | 🔜        | 🔜     |
+| Movie | Level| Source | Deck | Languages | Availability |
+|-------|--------|------|-----------|--------------|--------------|
+| Spirited Away | N4-N3 |[Netflix](https://www.netflix.com/title/60023642) | [Anki](https://ankiweb.net/shared/info/1236164805) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 24th,Sep 2025 |
+| My Neighbor Totoro | N5-N4 |[Netflix](https://www.netflix.com/vn-en/title/60032294) | [Anki](https://ankiweb.net/shared/info/962860232) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 26th,Sep 2025 |
+| My Neighbor Totoro | N4-N3 |[Netflix](https://www.netflix.com/vn-en/title/60027106) | [Anki]() | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | 🔜 TBU |
 
+---
 
-✅ = available 🔜 = coming soon ❌ = not available  
+### Legend
+- **Languages (Subtitles)**  
+  - 🇯🇵 = Japanese (Target)  
+  - 🇬🇧 = English  
+  - 🇪🇸 (LatAm) = Spanish (Latin America)  
+  - 🇪🇸 (ES) = Spanish (Spain)  
+  - 🇻🇳 = Vietnamese  
+  - 🇨🇳 (简) = Chinese (Simplified)  
+  - 🇨🇳 (繁) = Chinese (Traditional)  
+  - 🇰🇷 = Korean  
 
-**Shared Decks on Anki**
-1. [Spirited Away](https://ankiweb.net/shared/info/1236164805)
+- **Availability**  
+  - ✅ Available  
+  - 🔜 Coming Soon  
 
 ---
 
