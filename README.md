@@ -54,10 +54,10 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 
 #### Spirited Away ☪︎🔮
 
-<img src="Spirited%20Away/card-image/Front%20Card.png" alt="Front Card" width="500"> <img src="Spirited%20Away/card-image/Back%20Card.png" alt="Back Card" width="500">
+<img src="Spirited%20Away/card-image/Front%20Card.png" alt="Front Card" width="400"> <img src="Spirited%20Away/card-image/Back%20Card.png" alt="Back Card" width="400">
 
 #### My Neighbor Totoro ≽^•⩊•^≼☔
-<img src="netflix-my-neighbor-totoro-japanese-jp/card-image/front-card.png" alt="Front Card" width="500"> <img src="netflix-my-neighbor-totoro-japanese-jp/card-image/back-card.png" alt="Back Card" width="500">
+<img src="netflix-my-neighbor-totoro-japanese-jp/card-image/front-card.png" alt="Front Card" width="400"> <img src="netflix-my-neighbor-totoro-japanese-jp/card-image/back-card.png" alt="Back Card" width="400">
 ---
 
 ## ❓ FAQ ∘ ∘ ∘ ( °ヮ° )  
