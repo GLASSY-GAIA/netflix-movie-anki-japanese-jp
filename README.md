@@ -42,27 +42,22 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 
 | Movie | Level| Source | Deck | Languages | Availability |
 |-------|--------|------|-----------|--------------|--------------|
-| Spirited Away | N4-N3 |[Netflix](https://www.netflix.com/title/60023642) | [Anki](https://ankiweb.net/shared/info/1236164805) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 24th,Sep 2025 |
-| My Neighbor Totoro | N5-N4 |[Netflix](https://www.netflix.com/vn-en/title/60032294) | [Anki](https://ankiweb.net/shared/info/962860232) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 26th,Sep 2025 |
+| Spirited Away | N4-N3 |[Netflix](https://www.netflix.com/title/60023642) | [Anki](https://ankiweb.net/shared/info/1236164805) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 24th Sep, 2025 |
+| My Neighbor Totoro | N5-N4 |[Netflix](https://www.netflix.com/vn-en/title/60032294) | [Anki](https://ankiweb.net/shared/info/962860232) | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | ✅ 26th Sep, 2025 |
 | Kiki Delivery Services | N4-N3 |[Netflix](https://www.netflix.com/vn-en/title/60027106) | [Anki]() | 🇯🇵 🇬🇧 🇪🇸 (LatAm) 🇪🇸 (ES) 🇻🇳 🇨🇳 (简) 🇨🇳 (繁) 🇰🇷 | 🔜 TBU |
 
 ---
+**Legend** 
+  - 🇯🇵 = Japanese (Target)  | 🇬🇧 = English  | 🇪🇸 (LatAm) = Spanish (Latin America) | 🇪🇸 (ES) = Spanish (Spain)  | 🇻🇳 = Vietnamese | 🇨🇳 (简) = Chinese (Simplified) | 🇨🇳 (繁) = Chinese (Traditional)  | 🇰🇷 = Korean 
 
-### Legend
-- **Languages (Subtitles)**  
-  - 🇯🇵 = Japanese (Target)  
-  - 🇬🇧 = English  
-  - 🇪🇸 (LatAm) = Spanish (Latin America)  
-  - 🇪🇸 (ES) = Spanish (Spain)  
-  - 🇻🇳 = Vietnamese  
-  - 🇨🇳 (简) = Chinese (Simplified)  
-  - 🇨🇳 (繁) = Chinese (Traditional)  
-  - 🇰🇷 = Korean  
+---
 
-- **Availability**  
-  - ✅ Available  
-  - 🔜 Coming Soon  
+#### Spirited Away ☪︎🔮
 
+<img src="Spirited%20Away/card-image/Front%20Card.png" alt="Front Card" width="500"> <img src="Spirited%20Away/card-image/Back%20Card.png" alt="Back Card" width="500">
+
+#### My Neighbor Totoro ≽^•⩊•^≼☔
+<img src="netflix-my-neighbor-totoro-japanese-jp/card-image/front-card.png" alt="Front Card" width="500"> <img src="netflix-my-neighbor-totoro-japanese-jp/card-image/back-card.png" alt="Back Card" width="500">
 ---
 
 ## ❓ FAQ ∘ ∘ ∘ ( °ヮ° )  
@@ -71,14 +66,6 @@ Learn Japanese through movies! Each deck is built from real scenes with screensh
 - 🗣️✍️ [How to practice speaking & writing effectively with this deck](https://noiseless-abacus-7a5.notion.site/GLASSY-GAIA-Anki-Japanese-Movie-Flashcards-FAQ-278b88c26c408083a429cf3ed5f30e64#278b88c26c408095b81ee66a37728c04)  
 - 🌐🎞️ [How to adjust subtitles to your preferred language](https://noiseless-abacus-7a5.notion.site/GLASSY-GAIA-Anki-Japanese-Movie-Flashcards-FAQ-278b88c26c408083a429cf3ed5f30e64#278b88c26c40808ea088d3d7543fa043)  
 - 🪧 Got more questions? Please let me know ଘ(੭ˊᵕˋ)੭  
-
----
-
-### 📸 Preview  
-
-![Front Card](Spirited%20Away/card-image/Front%20Card.png)
-![Back Card](Spirited%20Away/card-image/Back%20Card.png)
-
 ---
 
 💖 Happy Learning ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾  
